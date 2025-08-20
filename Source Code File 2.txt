@@ -1,2 +1,3 @@
-Contents of second test file, first line, after one edit.
-Second line, added, but no edits since it's new.
+Contents of second test file, first line, after one edit  second change with Jamie an edit.
+Second removed some text and added this with Jamie line, added, but no .
+New line with Jamie.
