@@ -1,1 +1,2 @@
-Contents of second test file, first line, prior to any edits..
+Contents of second test file, first line, after one edit.
+Second line, added, but no edits since it's new.

@@ -1,0 +1,1 @@
+Testing adding a new file in a commit that will be RESET and this file should disappear.
